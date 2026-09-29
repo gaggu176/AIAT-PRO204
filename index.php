@@ -99,7 +99,7 @@ $isEditing = is_array($editingUser);
     <main class="shell">
         <header class="page-header">
             <div>
-                <p class="eyebrow">TEAM ADMINISTRATION Nomi!!</p>
+                <p class="eyebrow">TEAM ADMINISTRATION Nomi2!!</p>
                 <h1>User directory</h1>
                 <p class="subtitle">Create, update, and remove account records from one focused workspace.</p>
             </div>
