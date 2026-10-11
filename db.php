@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 $databaseHost = 'localhost';
 $databasePort = 3306;
-$databaseName = 'user_directory';
+$databaseName = 'Adelaide Artisan Bakery';
 $databaseUsername = 'root';
 $databasePassword = 'Grandmaa.,513@';
 
