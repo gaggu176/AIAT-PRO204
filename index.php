@@ -92,16 +92,16 @@ $isEditing = is_array($editingUser);
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>User Directory</title>
+    <title>Cafe Website Adelaide</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <main class="shell">
         <header class="page-header">
             <div>
-                <p class="eyebrow">TEAM ADMINISTRATION Nomi3!!</p>
-                <h1>User directory</h1>
-                <p class="subtitle">Create, update, and remove account records from one focused workspace.</p>
+                <p class="eyebrow">ADELAIDE CAFE</p>
+                <h1>Cafe Website Adelaide</h1>
+                <p class="subtitle">Create, update, and manage your Adelaide cafe records from one focused workspace.</p>
             </div>
             <div class="stat"><strong><?= count($users) ?></strong><span>total users</span></div>
         </header>
